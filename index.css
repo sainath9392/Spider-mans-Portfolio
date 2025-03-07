@@ -76,12 +76,12 @@ nav{
     padding: 15px;
 }
 .personinfo{
-    margin-left: 15vw;
+    margin-left: 18vw;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-right: 370px;
+    margin-right: 350px;
 }
 .personinfo h1{
     font-size: 3.2rem;
