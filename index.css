@@ -44,7 +44,7 @@ nav{
     color: rgb(255, 255, 255);
     font-size: 14.5px;
     background-color: rgba(255, 0, 0, 0.8);
-    padding: 20px 30px;
+    padding: 15px 20px;
     border-radius: 50px;
     outline: 2px solid rgba(196, 0, 0, 0.8);
 }
@@ -246,6 +246,7 @@ marquee{
     justify-content: center;
     margin-left: 3vw;
     margin-bottom: 10vh;
+    width: 30vw;
 }
 
 .projdisc h1{
@@ -279,8 +280,8 @@ marquee{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 130vh;
-    padding-top: 125px;
+    height: 160vh;
+    padding-top: 115px;
   }
   .contshead{
     font-size: 2.3rem;
@@ -302,8 +303,8 @@ marquee{
 fieldset{
     display: flex;
     flex-direction: column;
-    height: 85vh;
-    margin-top: 100px;
+    height: 110vh;
+    margin-top: 50px;
     margin-left: 28%;
     margin-right: 26%;
     background-color: #fff;
@@ -356,7 +357,7 @@ form{
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
     margin-top: 30px;
-    margin-left: 72%;
+    margin-left: 66%;
 }
 .footer{
     background-color: #000000;
